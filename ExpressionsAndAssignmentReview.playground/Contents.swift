@@ -15,3 +15,8 @@
  
 */
 
+write two constants that has x and y bewteen 50 and 75
+then add them together and divide by two to get the average in only one line
+next, use the average and add z which should be between 1000 and 2000
+make them all Double
+then divide by 3 and print the result
